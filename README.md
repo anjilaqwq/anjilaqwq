@@ -40,7 +40,7 @@
 
 | 网易云音乐 | last.fm |
 | :---: | :---: |
-| [我的网易云音乐主页](https://music.163.com/#/user/home?id=1799770622)<br>[我的歌单推荐](https://music.163.com/#/playlist?id=96848090) | [我的 last.fm 主页](https://www.last.fm/user/anjila233)<br>![Last.fm 最近收听](https://lastfm-recently-played.vercel.app/api?user=anjila233) |
+| [我的网易云音乐主页](https://music.163.com/#/user/home?id=1799770622)<br>[我的歌单推荐](https://music.163.com/#/playlist?id=8324310225) | [我的 last.fm 主页](https://www.last.fm/user/anjila233)<br>![Last.fm 最近收听](https://lastfm-recently-played.vercel.app/api?user=anjila233) |
 
 
 
