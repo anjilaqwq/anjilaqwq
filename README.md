@@ -1,5 +1,5 @@
 ## あなたの心が描いた希望は  今もまだこの夜を照らす光（ほし）
-## 我会 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+## 我会 ![C](https://img.shields.io/badge/C-00599C?logo=c%2b%2b&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
   
 目前在学 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
