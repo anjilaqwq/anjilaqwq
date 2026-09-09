@@ -134,5 +134,5 @@
     <img src="https://img.shields.io/badge/GitHub-anjilaqwq-1D1D1F?style=flat-square&logo=github&logoColor=white&labelColor=6E6E73" alt="GitHub" />
   </a>
   <br /><br />
-  <sub>感谢来访　·　祝你今天也有好心情</sub>
+  <sub>感谢来访　·　要开心哦</sub>
 </div>
