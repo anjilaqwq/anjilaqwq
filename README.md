@@ -42,8 +42,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,nodejs,py,dart,flutter,git,linux,vscode,markdown&theme=dark&perline=7" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,nodejs,py,dart,flutter,git,linux,vscode,markdown&theme=light&perline=7" alt="C · C++ · HTML · CSS · JavaScript · TypeScript · Node.js · Python · Dart · Flutter · Git · Linux · VS Code · Markdown" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Chtml%2Ccss%2Cjs%2Cts%2Cnodejs%2Cpy%2Cdart%2Cflutter%2Cgit%2Clinux%2Cvscode%2Cmarkdown&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=c%2Ccpp%2Chtml%2Ccss%2Cjs%2Cts%2Cnodejs%2Cpy%2Cdart%2Cflutter%2Cgit%2Clinux%2Cvscode%2Cmarkdown&theme=light&perline=7" alt="C · C++ · HTML · CSS · JavaScript · TypeScript · Node.js · Python · Dart · Flutter · Git · Linux · VS Code · Markdown" />
   </picture>
   <br /><br />
   <img src="https://img.shields.io/badge/-Codex-1D1D1F?style=flat-square&logoColor=white" alt="Codex" />
