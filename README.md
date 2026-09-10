@@ -1,17 +1,3 @@
-<!--
-  anjilaqwq / anjilaqwq  ·  Profile README
-  ───────────────────────────────────────────────────────────────
-  设计：极简黑白（Apple 式）· 资料分块紧凑排布 · 浅色/深色自适应
-  统计卡片走的是社区镜像：官方公共实例 github-readme-stats.vercel.app
-  目前处于 DEPLOYMENT_PAUSED 状态（issue #3851），所以这里换了可用镜像。
-  若卡片失效，把文中所有 gh-readme-stats.vercel.app 换成以下任一地址即可：
-    · https://github-readme-stats-fast.vercel.app
-    · https://gh-stats.work/API
-    · 或自托管：Vercel 一键部署 / readme-tools/github-readme-stats-action
-  注意：公共实例只统计公开贡献，私有仓库的提交不会计入。
-  Steam 游戏封面来自官方 CDN，鸣潮的封面地址带资源哈希，若失效可在
-  https://store.steampowered.com/app/3513350/ 页面重新取一张图替换。
--->
 
 <div align="center">
   <img src="img.jpg" width="100%" alt="Anjila" />
